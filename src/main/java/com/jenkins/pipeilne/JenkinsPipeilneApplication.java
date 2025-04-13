@@ -15,5 +15,7 @@ public class JenkinsPipeilneApplication {
         System.out.println("Some more changes to re-validate the trigger of jenkins build");
 
         System.out.println("Changes to validate Stage View progress of jenkins build");
+
+        System.out.println("Some more changes to re-validate Stage View progress of jenkins build");
     }
 }
