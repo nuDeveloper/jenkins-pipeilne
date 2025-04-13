@@ -11,5 +11,7 @@ public class JenkinsPipeilneApplication {
 		System.out.println("Jenkins CI/CD demo...");
 
         System.out.println("Some changes to trigger jenkins build");
+
+        System.out.println("Some more changes to re-validate the trigger of jenkins build");
     }
 }
